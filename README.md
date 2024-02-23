@@ -25,7 +25,7 @@ pip install pandas statsmodels matplotlib scikit-learn
 ### Project Structure
 **1. dataset_generator.py**: Python script to generate a synthetic time series dataset with multiple categories, trends, and seasonality.
 
-**2. forecasting_analysis.py**: Python script for forecasting analysis using Exponential Smoothing, Moving Average, and Simple Average.
+** tsa.ipynb**: Python script for forecasting analysis using Exponential Smoothing, Moving Average, and Simple Average.
 
 **3. time_series_dataset.csv**: Generated synthetic time series dataset.
 ## Usage
