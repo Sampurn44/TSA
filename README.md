@@ -74,6 +74,13 @@ pip install pandas statsmodels matplotlib scikit-learn
 The manual.ipynb file outputs the trend,sesaonality and noise for the pant category done manually without using the seasonal_decompose library
 The forecasting analysis results, including plots and RMSE values, can be found in the output of the tsa.ipynb script.
 
+## Explaination
+The model is also explained on this medium article by me so you can visit it for in depth explaintation. It is a 3 part exploaration
+1. [Part-1](https://medium.com/@sampurn10chouksey/time-series-analysis-introduction-part-1-0bf2459cd958) Uncover the theory behind Time Series analysis.
+2. [Part-2](https://medium.com/@sampurn10chouksey/time-series-analysis-example-with-python-part-2-6a7d9aab2be2) Implement practical solutions using Python to dissect datasets and identify trends.
+3. [Part-3](https://medium.com/@sampurn10chouksey/time-series-analysis-forecasting-with-python-part-3-c04c30c2e256) Evaluate forecasting models' effectiveness - Simple Average, Exponential Smoothing, and Moving Average.
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
